@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @frikcio
 - 👀 I’m interested in backend 
-- 🌱 I’m currently learning python's frameworks
 - 💞️ I’m looking to collaborate with something interesting
 - 📫 You can wirte me: frikcio67@gmail.com
 
